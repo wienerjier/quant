@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "python": "/home/wieneralan/.conda/envs/quant/bin/python",
+            "cwd": "${workspaceFolder}",
+            "request": "launch",
+            "program": "/home/wieneralan/software/quant/extractFeature.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

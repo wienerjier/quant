@@ -1,0 +1,4 @@
+
+遇到下面的错误：
+ld: /usr/local/lib/libc.a(malloc.o): relocation R_X86_64_TPOFF32 against `tcache' can not be used when making a shared object; recompile with -fPIC
+使用下载好的ta_lib_bin-0.4.26-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl进行安装
